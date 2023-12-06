@@ -1,5 +1,5 @@
  <a href="https://t.me/GgDbaj">
-  <img src="https://www.flaticon.com/ru/free-icons/" alt="Telegram" width="20" height="20"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111710.png" alt="Telegram" width="20" height="20"/> 
   </a>
 
 
