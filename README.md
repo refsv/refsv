@@ -6,7 +6,7 @@
 
 
 <div style="text-align:center">
-  <img src="https://img-fotki.yandex.ru/get/16159/160997575.3b/0_100a3a_8182e94b_orig" width="100%" alt="Альтернативный текст">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Альтернативный текст">
 </div>
 
 
