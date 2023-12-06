@@ -3,9 +3,8 @@
 
 
 
-<div style="width: 100%; height: auto;">
-  ![Альтернативный текст](https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif)
-</div>
+
+![Альтернативный текст](https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif){ width=100% }
 
 
 - 🌱 I’m currently learning at the Odesa Mechnikov National University
