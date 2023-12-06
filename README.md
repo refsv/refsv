@@ -1,5 +1,5 @@
  <a href="https://t.me/GgDbaj">
-  <img src="https://www.flaticon.com/ru/free-icons/" alt="Telegram" width="20" height="20"/> 
+  <img src="" alt="Telegram" width="20" height="20"/> 
   </a>
 
 
@@ -8,7 +8,7 @@
 </div>
 
 
-
+<a href="https://www.flaticon.com/ru/free-icons/" title="телеграмма иконки">Телеграмма иконки от Pixel perfect - Flaticon</a>
 
 
 
