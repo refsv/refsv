@@ -1,8 +1,8 @@
-![image](https://github.com/refsv/refsv/assets/99077309/729c1f6f-cba5-4cef-be94-016d15b5d122)<div style="text-align:center">
+<div style="text-align:center">
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Альтернативный текст">
 
    <a href="https://t.me/GgDbaj">
-  <img src="https://www.flaticon.com/ru/free-icons/" alt="Telegram" width="20" height="20"/> 
+  <img src="https://www.flaticon.com/ru/free-icons/" alt="Telegram" width="2" height="2"/> 
   </a>
 
   
