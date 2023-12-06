@@ -1,7 +1,7 @@
 ### **Я в детстве так мечтал стать космонавтом, но в результате стал Космосом (c) Идущий к реке**
                                                                           
 
-![Альтернативный текст](https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif)
+![Альтернативный текст]([https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif](https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif))
 
 
 
