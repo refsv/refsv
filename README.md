@@ -11,7 +11,7 @@
 
 </div>
 
-<div alight="center">
+<div align="center">
     <a href="https://t.me/GgDbaj">
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="30" height="30"/> 
   </a>
