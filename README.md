@@ -28,8 +28,27 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr_tDNnbTO6TlGfM7RkSDSxfMvxmwW9Mfmw&usqp=CAU" alt="LeetCode" width="30" height="30"/>
   </a>
 
-  
-### Languages and Tools:
+
+<div align="center">
+  <h5>Languages and Tools</h5>
+</div>
+
+
+### Excellent Understanding:
   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+  </a>
+
+   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+  </a>
+
+### Moderate Understanding:
+<a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+  </a>
+
+### Below Average Understanding:
+<a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
   </a>
