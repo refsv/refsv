@@ -36,7 +36,7 @@
 
 ### Excellent Understanding:
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="60" height="60"/>
   </a>
 
    <a  href="">
