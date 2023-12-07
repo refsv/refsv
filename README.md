@@ -48,7 +48,7 @@
   </a>
  
    <a  href="">
-    <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30"/>
   </a>
 
   <a  href="">
