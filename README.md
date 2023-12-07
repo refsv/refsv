@@ -7,7 +7,7 @@
 
 <div style="text-align:center"> 
 
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Альтернативный текст">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig"  alt="Альтернативный текст">
 
 </div>
 
@@ -28,7 +28,5 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr_tDNnbTO6TlGfM7RkSDSxfMvxmwW9Mfmw&usqp=CAU" alt="LeetCode" width="30" height="30"/>
   </a>
 
-  <a href="https://evgen.kotsarenko@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" height="30"/>
-  </a>
+  
 ### Languages and Tools:
