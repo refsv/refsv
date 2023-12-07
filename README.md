@@ -40,14 +40,21 @@
   </a>
 
    <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="30" height="30"/>
   </a>
 
+ <a  href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="GIT" width="30" height="30"/>
+  </a>
+  
 ### Moderate Understanding:
 <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="30" height="30"/>
   </a>
-
+  
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/>
+  </a>
 ### Below Average Understanding:
 <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
