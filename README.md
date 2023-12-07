@@ -29,6 +29,6 @@
   </a>
 
   <a href="evgen.kotsarenko@gmail.com">
-    <img src=" https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" height="30"/>
   </a>
 ### Languages and Tools:
