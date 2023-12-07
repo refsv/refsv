@@ -4,11 +4,7 @@
   <h5>Backend Software Engineer by calling and Computer Engineer by profession🧑‍💻</h5>
 </div>
 
-<style>
-  div {
-    text-align: center;
-  }
-</style>
+
 
 <div style="text-align:center"> 
 
