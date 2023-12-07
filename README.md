@@ -36,7 +36,7 @@
 
 ### Excellent Understanding:
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docer" width="45" height="45"/>
   </a>
 
    <a  href="">
@@ -62,17 +62,20 @@
    <a  href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="30" height="30"/>
   </a>
-  
+
+   <a  href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="30" height="30"/>
+  </a>
 ### Moderate Understanding:
-<a href="">>
+<a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="30" height="30"/>
   </a>
   
-  <a href="">>
+  <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/>
   </a>
   
-  <a href="">>
+  <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="30" height="30"/>
   </a>
 
