@@ -12,6 +12,10 @@
   <a href="">
     <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" width="30" height="30"/>
   </a>
+
+  <a href="">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr_tDNnbTO6TlGfM7RkSDSxfMvxmwW9Mfmw&usqp=CAU" alt="LeetCode" width="30" height="30"/>
+  </a>
 </div>
 
 
