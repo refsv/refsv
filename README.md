@@ -5,12 +5,14 @@
 </div>
 
 
-
 <div style="text-align:center"> 
 
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Альтернативный текст">
 
-  <a href="https://t.me/GgDbaj">
+</div>
+
+<div alight="center">
+    <a href="https://t.me/GgDbaj">
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="30" height="30"/> 
   </a>
 
@@ -26,8 +28,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr_tDNnbTO6TlGfM7RkSDSxfMvxmwW9Mfmw&usqp=CAU" alt="LeetCode" width="30" height="30"/>
   </a>
 </div>
-
-
   
 
 
