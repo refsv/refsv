@@ -11,8 +11,8 @@
 
 </div>
 
-<div align="center">
-    <a href="https://t.me/GgDbaj">
+### Connect with me:
+<a href="https://t.me/GgDbaj">
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="30" height="30"/> 
   </a>
 
@@ -27,11 +27,5 @@
   <a href="https://leetcode.com/qwertyyt/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr_tDNnbTO6TlGfM7RkSDSxfMvxmwW9Mfmw&usqp=CAU" alt="LeetCode" width="30" height="30"/>
   </a>
-</div>
   
-
-
-- 🌱 I’m currently learning at the Odesa Mechnikov National University
-- 👯 I’m looking to collaborate on for joint development. I am open to any project, the main thing is practice :)
-
-
+### Languages and Tools:
