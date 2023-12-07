@@ -1,5 +1,7 @@
 <div style="text-align:center"> 
-  <h3>Hi all👋</h3>
+  <h1>Evgen Kotsarenko</h1>
+  <h3>Hi 👋, I'm Evgen</h3>
+  <h5>Backend Software Engineer by calling and Computer Engineer by profession🧑‍💻</h5>
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Альтернативный текст">
 
   <a href="https://t.me/GgDbaj">
