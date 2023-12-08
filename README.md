@@ -32,86 +32,81 @@
 
 
 ### Excellent Understanding:
-  <a  href="">
+  <a  href="https://www.docker.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 
-   <a  href="">
+   <a  href="https://www.gnu.org/software/bash/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/>
   </a>
 
- <a  href="">
+ <a  href="https://git-scm.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
  
-   <a  href="">
+   <a  href="https://github.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
-  <a  href="">
+  <a  href="https://www.java.com/en/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
   </a>
 
-  <a  href="">
+  <a  href="https://jupyter.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
   </a>
 
-   <a  href="">
+   <a  href="https://www.linux.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
   </a>
 
-   <a  href="">
+   <a  href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
   </a>
  
-  <a  href="">
+  <a  href="https://spring.io">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   </a>
 
-   <a  href="">
+   <a  href="https://testng.org/doc/">
     <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="TestNG" width="40" height="40"/>
   </a>
 
-  <a  href="">
+  <a  href="https://gradle.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="60" height="40"/>
   </a>
 
-  <a  href="">
+  <a  href="https://maven.apache.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" alt="Maven" width="60" height="40"/>
   </a>
   
 ### Moderate Understanding:
-<a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="C++" width="40" height="40"/>
+<a href="https://www.figma.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
   
-<a href="">
+<a href="https://cplusplus.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
   </a>
   
-  <a href="">
+  <a href="https://www.w3schools.com/css/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
   
-  <a href="">
+  <a href="https://www.w3schools.com/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
 
-   <a href="">
+   <a href="https://www.python.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
 
-<a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Python" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   
-  <a href="">
+  <a href="https://www.qt.io">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="40" height="40"/>
-  </a>
-  
-### Below Average Understanding:
-<a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MsDos" width="40" height="40"/>
   </a>
 
 <div align="center">
