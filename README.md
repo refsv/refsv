@@ -5,9 +5,9 @@
 </div>
 
 
-<div style="text-align:center"> 
+<div align="center"> 
 
-  <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.webp" alt="Gif">
+  <img src="https://i.gifer.com/origin/8b/8b0151f98b831800cc157e2829175daa_w200.webp" alt="Gif">
 
 </div>
 
