@@ -7,7 +7,7 @@
 
 <div style="text-align:center"> 
 
-  <img src="https://st.weblancer.net/download/1282595.gif" width="100%" alt="Gif">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Gif">
 
 </div>
 
@@ -36,47 +36,47 @@
 
 ### Excellent Understanding:
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 
    <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/>
   </a>
 
  <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
  
    <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
   </a>
 
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
   </a>
 
    <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
   </a>
 
    <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
   </a>
  
   <a  href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   </a>
 
    <a  href="">
-    <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="TestNG" width="55" height="55"/>
+    <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="TestNG" width="40" height="40"/>
   </a>
 
   <a  href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="55"/>
   </a>
 
   <a  href="">
