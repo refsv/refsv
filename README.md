@@ -100,6 +100,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
 
+<a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
   <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="40" height="40"/>
   </a>
@@ -108,3 +112,9 @@
 <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MsDos" width="40" height="40"/>
   </a>
+
+### Soft skills:
+1) Organization and Time Management
+2) Responsibility
+3) Some creativity
+4) Adaptability and teamwork
