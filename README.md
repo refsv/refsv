@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <h5>Languages and Tools</h5>
+  <h5>Languages and Tools:</h5>
 </div>
 
 
