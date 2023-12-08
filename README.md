@@ -124,9 +124,11 @@
 <br> 4) Adaptability and teamwork</h5>
 </div>
 
+<div align="center">
+  <h5>Stats:</h5>
+</div>
 
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=refsv&theme=default" />
 
 
 <img src="https://komarev.com/ghpvc/?username=refsv&color=dc143c" />
