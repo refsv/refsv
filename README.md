@@ -129,5 +129,4 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default" />
-
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default
