@@ -76,7 +76,7 @@
   </a>
 
   <a  href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="60" height="40"/>
   </a>
 
   <a  href="">
@@ -85,26 +85,26 @@
   
 ### Moderate Understanding:
 <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
   </a>
   
   <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
   
   <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
 
    <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <a href="">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="40" height="40"/>
   </a>
   
 ### Below Average Understanding:
 <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MsDos" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MsDos" width="40" height="40"/>
   </a>
