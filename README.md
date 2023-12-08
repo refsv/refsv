@@ -76,7 +76,7 @@
   </a>
 
   <a  href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="70"/>
   </a>
 
   <a  href="">
