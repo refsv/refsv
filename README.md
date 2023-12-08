@@ -76,11 +76,11 @@
   </a>
 
   <a  href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" width="40" height="40"/>
   </a>
 
   <a  href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" alt="Maven" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" alt="Maven" width="60" height="40"/>
   </a>
   
 ### Moderate Understanding:
