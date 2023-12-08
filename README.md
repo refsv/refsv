@@ -116,8 +116,8 @@
 
 <div>
   <h5>Soft skills:
-1) Organization and Time Management
-2) Responsibility
-3) Some creativity
-4) Adaptability and teamwork</h5>
+<br> 1) Organization and Time Management
+<br> 2) Responsibility
+<br> 3) Some creativity
+<br> 4) Adaptability and teamwork</h5>
 </div>
