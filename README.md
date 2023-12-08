@@ -3,12 +3,9 @@
   <h3>Hi 👋, I'm Evgen</h3>
   <h5>Backend Software Engineer by calling and Computer Engineer by profession🧑‍💻</h5>
 </div>
-<img src="https://komarev.com/ghpvc/?username=refsv&color=dc143c" />
 
 <div align="center"> 
-
   <img src="https://i.gifer.com/origin/17/179a310421a2b9d96b27257b1dbad08b_w200.webp" alt="Gif">
-
 </div>
 
 ### Connect with me:
@@ -129,4 +126,7 @@
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default" />
+
+
+<img src="https://komarev.com/ghpvc/?username=refsv&color=dc143c" />
