@@ -113,8 +113,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MsDos" width="40" height="40"/>
   </a>
 
-### Soft skills:
+
+<div>
+  <h5>Soft skills:
 1) Organization and Time Management
 2) Responsibility
 3) Some creativity
-4) Adaptability and teamwork
+4) Adaptability and teamwork</h5>
+</div>
