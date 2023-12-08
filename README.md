@@ -7,7 +7,7 @@
 
 <div style="text-align:center"> 
 
-  <img src="https://i.gifer.com/77w2.gif" alt="Gif">
+  <img src="https://i.gifer.com/origin/76/7677e15931d5a2091777bff66942e92f_w200.webp" alt="Gif">
 
 </div>
 
