@@ -7,7 +7,7 @@
 
 <div style="text-align:center"> 
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcFbguq8ajVLrtLtNtkgbwixOM3x8IpRFQGvCDYB5-z1Q7Nkv9qGXPTwL6PZFea9UiYI&usqp=CAU" alt="Gif">
+  <img src="https://i.gifer.com/77w2.gif" alt="Gif">
 
 </div>
 
