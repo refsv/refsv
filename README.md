@@ -85,6 +85,10 @@
   
 ### Moderate Understanding:
 <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  
+<a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
   </a>
   
@@ -124,3 +128,4 @@
 </div>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default
