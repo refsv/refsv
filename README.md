@@ -7,7 +7,7 @@
 
 <div style="text-align:center"> 
 
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_629914a83944e7109a6d1bb3_629914c440cfaa27863d8689/orig" width="100%" alt="Gif">
+  <img src="https://i.gifer.com/origin/90/90167b0ebd31b4462d8174ce43b2c4c6_w200.gif" width="100%" alt="Gif">
 
 </div>
 
