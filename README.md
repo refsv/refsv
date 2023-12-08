@@ -129,5 +129,5 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvgenKotsarenko&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evgen&theme=default" />
 
